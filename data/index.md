@@ -12,20 +12,12 @@ title: GM用データインデックス
 - [導入_キャラクター作成後](scenario/02_introAfterCharacterCreation.html)
 - [導入後](scenario/03_afterTheIntro.html)
 - [村探索](scenario/04_villageExploration.html)
-- [村探索イベント詳細](scenario/05_villageExplorationEvent.html)
+- [村イベント](scenario/05_villageExplorationEvent.html)
 - [真相開示](scenario/06_disclosureOfTheTruth.html)
 - [決断の時](scenario/07_theMomentOfDecision.html)
 - [協力要請](scenario/08_requestForCooperation.html)
 - [神鏡破壊](scenario/09_release.html)
 - [トゥルーエンド](scenario/10_trueEnding.html)
-- [「協力要請」や「神鏡破壊」のフェーズで捕まった場合](scenario/ifCaught.html)
-
-# シナリオ変数
-
-- [残り時間](variable/remainingTime.html)
-- [殺害](variable/kill.html)
-- [定住希望](variable/anchoringHope.html)
-- [真相解明](variable/uncoveringTheTruth.html)
 
 # NPC設定
 
@@ -37,6 +29,7 @@ title: GM用データインデックス
 - [同行者の母](npc/companionsMother.html)
 - [師匠](npc/master.html)
 - [看護師](npc/nurse.html)
+- [モブ](npc/mob.html)
 - [その他のNPC](npc/other.html)
 
 # 世界設定
@@ -46,4 +39,5 @@ title: GM用データインデックス
 
 # システム
 
+- [変数](system/variable.html)
 - [性的・猟奇的な行動](system/sexualOrViolent.html)
